@@ -1,0 +1,191 @@
+#call{
+    
+  
+    font-size: 30px;
+    color: #aaa;
+}
+#mail{
+    
+
+    font-size: 30px;
+    color: #aaa;
+}
+
+#home{
+    
+   
+    font-size: 30px;
+    color: #aaa;
+}
+#calender{
+    margin-top: 50px;
+  
+    font-size: 30px;
+    color: #aaa;
+}
+#info span{
+    font-size: 20px;
+    color: #aaa;
+    margin-left: 30px;
+}
+   
+    #con-details{
+    
+        margin-left: 100px;
+        height: 500px;
+    }
+    #con-form{
+        
+        margin-left: 50px;
+        height: 500px;
+    }
+    #con-icon1{
+        margin-top: 50px;
+        
+        border: 1px solid #ddd;
+        font-size: 35px;
+        padding: 30px;
+        background-color: rgb(242, 241, 252);
+        color: blue;
+    
+    }
+    #span-icon1{
+        font-size: 25px;
+        color: blue;
+        margin-left: 30px;
+      
+    }
+    #con-icon2{
+        margin-top: 50px;
+        
+        border: 1px solid #ddd;
+        font-size: 35px;
+        padding: 30px;
+        background-color: rgb(242, 241, 252);
+        color: blue;
+    
+    }
+    #span-icon2{
+        font-size: 25px;
+        color: blue;
+        margin-left: 30px;
+      
+    }
+    #con-icon3{
+        margin-top: 50px;
+        
+        border: 1px solid #ddd;
+        font-size: 35px;
+        padding: 30px;
+        background-color: rgb(242, 241, 252);
+        color: blue;
+    
+    }
+    #span-icon3{
+        font-size: 25px;
+        color: blue;
+        margin-left: 30px;
+      
+    }
+    #form-name{
+        border-top: none;
+        border-left: none;
+        background-color: rgb(242, 241, 252);
+        width: 90%;
+        height: 50px;
+        font-size: 20px;
+        padding-left: 20px;
+        margin-top:50px;
+    }
+    #form-email{
+        border-top: none;
+        border-left: none;
+        background-color: rgb(242, 241, 252);
+        width: 90%;
+        height: 50px;
+        font-size: 20px;
+        padding-left: 20px;
+        margin-top:50px ;
+    }
+    #form-subject{
+        border-top: none;
+        border-left: none;
+        background-color: rgb(242, 241, 252);
+        width: 90%;
+        height: 50px;
+        font-size: 20px;
+        padding-left: 20px;
+        margin-top:50px;
+    }
+    #form-messege{
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        background-color: rgb(242, 241, 252);
+        width: 90%;
+        height: 120px;
+        font-size: 20px;
+        padding-left: 20px;
+        margin-top:50px;
+    }
+    #form-button{
+        background-color: rgb(9, 161, 231);
+        padding: 10px;
+        color: white;
+        border-right: none;
+        margin-bottom: 10px;
+        margin-left: 500px;
+    
+    }
+    #overlay {
+        position:absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.5);
+        z-index: 2;
+      
+      }
+      #overlay1 {
+        position:absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.6);
+        z-index: 2;
+       
+      }
+      #mca-b{
+          border: 1px solid light green;
+          padding: 5px;
+          width: 100%;
+          text-align: center;
+      }
+      #edu-col1{
+        border: 1px solid #aaa;
+    }
+    #edu-col2{
+        border: 1px solid #aaa;
+    }
+    #edu-col3{
+        border: 1px solid #aaa;
+    }
+    #edu-col4{
+        border: 1px solid #aaa;
+    }
+#about-img{
+    height: 400px;
+    width: 500px;
+}
+@media screen and(max-width:576px){
+    body{
+        width:100%;
+    }
+}
